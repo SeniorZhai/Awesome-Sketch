@@ -1,4 +1,5 @@
 本项目派生自 [github.com/diessica/awesome-sketch](https://github.com/diessica/awesome-sketch) 并进行中文化，同时适当增加了一些内容。欢迎派生并提交合并请求来完善此文档。谢谢！
+转至<https://gitcafe.com/riku/Awesome-Sketch>
 
 # awesome Sketch
 > 你是否知道 [**Sketch 3**](http://bohemiancoding.com/sketch/) 正在成为最好的 UI/UX 设计工具? 好吧... 那你知道多少?
